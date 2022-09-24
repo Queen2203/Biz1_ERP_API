@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "8e66be42-dcd7-400d-9616-044bf5f90970": {
+      "ProjectGuid": "8e66be42-dcd7-400d-9616-044bf5f90970",
+      "DisplayName": "SuperMarketApi",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
